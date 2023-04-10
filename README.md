@@ -12,6 +12,8 @@ The Nightingale project aims to develop a handheld electronic medical reference 
 
 These questions will be addressed upon completion of the project schedule using MS Project modeling and scheduling techniques:
 
-Will the project be completed by the planned deadline of October 25th?
-Which activities are critical to the project's success and lie on the critical path?
-How sensitive is the project network to potential delays or changes in the critical path activities?
+1. Will the project be completed by the planned deadline of October 25th?
+
+3. Which activities are critical to the project's success and lie on the critical path?
+4. 
+5. How sensitive is the project network to potential delays or changes in the critical path activities?
