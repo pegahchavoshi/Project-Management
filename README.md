@@ -1,5 +1,5 @@
 # Project-Management
-Schedualing using MS Project
+Schedualing the Project using MS Project
 
 
 
