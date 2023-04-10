@@ -32,19 +32,33 @@ Overall, it is crucial for the project team to remain vigilant in their efforts 
 The critical path activities include:
 
 1.Architectural decisions
+
 2.Feature specifications
+
 3.Database
+
 4.Review design
+
 5.Integration
+
 6.Procure prototype components
+
 7.Assemble prototypes
+
 8.Lab test prototypes
+
 9.Field test prototypes
+
 10.Adjust design
+
 11.Order stock parts
+
 12.Assemble first production unit
+
 13.Test unit
+
 14.Produce 30 units
+
 15.Train sales representatives
 
 It is important that the project team carefully manages and monitors these critical path activities to ensure that they are completed on time and within budget. Any delays in these activities could have a significant impact on the overall project timeline and success. The team should prioritize these activities and allocate appropriate resources to ensure that they are completed on schedule.
