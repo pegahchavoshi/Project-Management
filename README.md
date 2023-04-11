@@ -67,3 +67,7 @@ It is important that the project team carefully manages and monitors these criti
 3. The concept of sensitivity pertains to the degree to which the critical path may change as the project unfolds. A highly sensitive network is characterized by having multiple critical paths and/or non-critical activities with minimal slack, increasing the likelihood of changes to the original critical path as work begins.
 
  Based on my analysis, I believe that this network is not highly sensitive because roughly half of the tasks are critical, while the other half possess significant slack. Although most of these non-critical activities are likely to exceed their estimated duration times, they each have ample slack ranging from 20 to 37 days, except for "price component" with 5 days of slack and "order custom part" with 8 days of slack. However, given the nature of these activities, it is improbable that they would require more than 5 days beyond their estimated duration to complete. Additionally, only two non-critical activities, "document design" and "order custom parts," exist during the second half of the project after the initial burst of activities. Consequently, while a highly sensitive project would have multiple critical paths, this project only has one, indicating low sensitivity.
+ 
+ 
+ <img width="1188" alt="Screenshot 2023-04-10 170140" src="https://user-images.githubusercontent.com/94572320/231021904-34111951-daeb-4a29-b17c-6d2b39994a37.png">
+
