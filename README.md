@@ -2,12 +2,12 @@
 
 
 
-# Introduction
+## Introduction
 
 The Nightingale project aims to develop a handheld electronic medical reference guide for emergency medical technicians and paramedics. The goal is to produce 30 working models in time for MedCON, the biggest medical equipment trade show, by October 25. 
 
 
-# Project Objective
+## Objective
 
 These questions will be addressed upon completion of the project schedule using MS Project modeling and scheduling techniques:
 
@@ -17,7 +17,7 @@ These questions will be addressed upon completion of the project schedule using 
  
 4. How sensitive is the project network to potential delays or changes in the critical path activities?
 
-# Results
+## Result
 
 1. Based on the results of the project schedule analysis, it is apparent that there will be a considerable delay in completing the Nightingale Project and will not meet the intended deadline of October 25th, 2017. This delay will likely have a significant impact on the project's success, given the competitive landscape and the importance of meeting the MedCON deadline. It is clear that most of the project activities will take longer to complete than originally planned, which will impact the critical path and the overall project schedule.
 
